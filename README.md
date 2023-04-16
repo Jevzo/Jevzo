@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Jerry, a full-stack software developer 🚀</div>  
   
 
@@ -123,7 +118,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeerrryyyy&hide_border=true&layout=compact" align="left" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeerrryyyy&hide_border=true&layout=compact" align="center" /></div>
 
 </td></tr></table>  
 
