@@ -10,7 +10,7 @@
 - ❓ Feel free to contact me over my personal website if you have any questions!  
   
 
-- ⚡ Fun fact: I learned java by creating minecraft hacked clients...  
+- ⚡ Fun fact: I learned java by creating minecraft hack clients...  
   
 
 <br/>  
