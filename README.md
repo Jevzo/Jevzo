@@ -10,7 +10,7 @@
 - ❓ Feel free to contact me over my personal website if you have any questions!  
   
 
-- ⚡ Currently I work for [Erste Digital GmbH](https://www.erstedigital.com/en/home) as a Backend Developer for George
+- ⚡ Currently I am searching for a 100% remote position in europe
   
 
 <br/>  
