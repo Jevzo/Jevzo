@@ -17,7 +17,7 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeerrryyyy&hide_border=true&layout=donut-vertical&theme=github_dark" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jevzo&hide_border=true&layout=donut-vertical&theme=github_dark" align="center" />
 </div>  
 
 <div align="center">
