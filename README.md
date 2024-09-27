@@ -21,7 +21,7 @@
 </div>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Jeerrryyyy&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Jevzo&&style=flat-square" align="center" />
 </div>  
   
 ----
