@@ -10,7 +10,7 @@
 - ❓ Feel free to contact me if you have any questions!  
   
 
-- ⚡ Currently I am searching for a 100% remote position in europe
+- ⚡ Working as a fullstack software engineer @ <a href="https://l21s.de/">l21s</a>.
   
 
 <br/>  
