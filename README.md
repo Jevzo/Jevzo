@@ -10,7 +10,7 @@
 - ❓ Feel free to contact me if you have any questions!  
   
 
-- ⚡ Working as a fullstack software engineer @ <a href="https://l21s.de/">l21s</a>.
+- ⚡ Working as a senior software engineer @ <a href="https://58agents.com/">58agents</a>.
   
 
 <br/>  
