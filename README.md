@@ -1,7 +1,7 @@
 ### <div align="center">I'm Jerry, a senior full-stack software developer 🚀</div>  
   
 
-- 🔭 Currently I work on a minecraft cloud system running fully in kubernetes.
+- 🔭 Currently I work on a minecraft cloud system running fully in kubernetes and written in go.
   
 
 - 🌱 Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.  
