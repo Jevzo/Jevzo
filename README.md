@@ -1,4 +1,4 @@
-### <div align="center">I'm Jerry, a full-stack software developer 🚀</div>  
+### <div align="center">I'm Jerry, a senior full-stack software developer 🚀</div>  
   
 
 - 🔭 Currently I work on a minecraft cloud system running fully in kubernetes.
