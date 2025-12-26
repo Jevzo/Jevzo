@@ -13,12 +13,7 @@
 - ⚡ Working as a senior software engineer @ <a href="https://58agents.com/">58agents</a>.
   
 
-<br/>  
-
-## Github Stats  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jevzo&hide_border=true&layout=donut-vertical&theme=github_dark" align="center" />
-</div>  
+<br/>    
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Jevzo&&style=flat-square" align="center" />
