@@ -7,10 +7,10 @@
 - 🌱 Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.  
   
 
-- ❓ Feel free to contact me if you have any questions!  
+- ❓ Feel free to contact me if you have any questions or need software based on your preferences!  
   
 
-- ⚡ Working as a senior software engineer @ <a href="https://58agents.com/">58agents</a>.
+- ⚡ founder & lead developer @ <a href="https://memories4all.biz/">memories4all</a>.
   
 
 <br/>    
