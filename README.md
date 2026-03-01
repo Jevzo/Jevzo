@@ -1,7 +1,7 @@
 ### <div align="center">I'm Jerry, a senior full-stack software developer 🚀</div>  
   
 
-- 🔭 Currently I work on a snapchat memories processing pipeline to created beautiful galleries from messy snapchat exports.
+- 🔭 Currently I work on a minecraft cloudsystem running native in kubernetes with gamestate aware auto scaling.
   
 
 - 🌱 Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.  
