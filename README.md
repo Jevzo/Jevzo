@@ -10,7 +10,7 @@
 - ❓ Feel free to contact me if you have any questions or need software based on your preferences!  
   
 
-- ⚡ founder & lead developer @ <a href="https://memories4all.biz/">memories4all</a>.
+- ⚡ lead developer @ <a href="https://ogcloud.dev/">ogcloud.dev</a>.
   
 
 <br/>    
