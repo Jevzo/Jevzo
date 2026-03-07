@@ -10,7 +10,7 @@
 - ❓ Feel free to contact me if you have any questions or need software based on your preferences!  
   
 
-- ⚡ lead developer @ <a href="https://ogcloud.dev/">ogcloud.dev</a>.
+- ⚡ lead developer of <a href="https://github.com/Jevzo/ogcloud">ogcloud</a>.
   
 
 <br/>    
